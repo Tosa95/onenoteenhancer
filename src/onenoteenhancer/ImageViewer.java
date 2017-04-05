@@ -5,6 +5,7 @@
  */
 package onenoteenhancer;
 
+import onenoteenhancer.image.DeprecatedImagePanel;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;

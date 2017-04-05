@@ -5,6 +5,7 @@
  */
 package onenoteenhancer;
 
+import onenoteenhancer.image.DeprecatedImagePanel;
 import java.awt.AWTException;
 import java.awt.GraphicsDevice;
 import java.awt.GraphicsEnvironment;

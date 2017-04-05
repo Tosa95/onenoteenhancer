@@ -1,4 +1,4 @@
-package onenoteenhancer;
+package onenoteenhancer.image;
 
 import java.awt.AlphaComposite;
 import java.awt.BasicStroke;
@@ -22,6 +22,8 @@ import java.util.logging.Logger;
 import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
+import onenoteenhancer.CopyImageToClipBoard;
+import onenoteenhancer.SingleArgumentEventManager;
 import sun.awt.SunHints;
 
 public class DeprecatedImagePanel extends JPanel implements MouseMotionListener, MouseListener{
